@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @trutzzi
+- 👀 I’m interested in Front Web Development and IoT
+- 🌱 I’m currently learning IoT
+- 💞️ I’m looking to collaborate on IoT
+- 📫 How to reach me trutzzi@yahoo.ro
