@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @trutzzi
-- 👀 I’m interested in Front Web Development and IoT.
-- 🌱 I’m currently learning IoT and advanced JS.
-- 📫 How to reach me trutzzi@yahoo.ro
+Front-End Developer with 6+ years of experience building web apps, UI component libraries, and dashboards. Currently at ING Hub, developing configurable Web Components (Lit) for a banking platform. Background spans React, TypeScript, Redux Toolkit, and Node.js, with production experience in fintech, audit/tax software, and CI/CD pipelines.
